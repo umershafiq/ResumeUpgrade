@@ -7,9 +7,9 @@ import {
 import { Container, Header, Content, Accordion } from "native-base";
 import { Actions } from 'react-native-router-flux'; // New code
 const dataArray = [
-    { title: "First Element", content: "Lorem ipsum dolor sit amet" },
-    { title: "Second Element", content: "Lorem ipsum dolor sit amet" },
-    { title: "Third Element", content: "Lorem ipsum dolor sit amet" }
+    { title: "Freelance Web Content Writer", content: "|Health Television, Aug, 2017- Apr 2018" },
+    { title: "Internee, Front-end Development", content: "|Protégé Global, June 2018 - Aug 2018" },
+    { title: "WordPress Developer", content: "|Grand Store, Aug, 2018 - Present" }
   ];
 
 const Experience = () => {
