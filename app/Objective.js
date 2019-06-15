@@ -11,6 +11,9 @@ import { Actions } from 'react-native-router-flux'; // New code
 const Objective = () => {
   return (
     <View style={styles.container}>
+     <Text>
+        Umer Shafiq
+      </Text>
     <Text style={styles.welcome}>
     I am looking for a suitable position that can offer me new experiences and growth potential to utilize my
 skills and play an effective part in the development of the organization.
